@@ -1,0 +1,12 @@
+{
+  "iconDefinitions": {
+    "ts": {
+      "iconPath": "../icons/ts.svg"
+    }
+  },
+  "file": "ts",
+  "folder": "ts",
+  "languageIds": {
+    "typescript": "ts"
+  }
+}

@@ -15,6 +15,16 @@
         "id": "js",
         "label": "js",
         "path": "def/js-icon-theme.json"
+      },
+      {
+        "id": "py",
+        "label": "py",
+        "path": "def/py-icon-theme.json"
+      },
+      {
+        "id": "ts",
+        "label": "ts",
+        "path": "def/ts-icon-theme.json"
       }
     ]
   }

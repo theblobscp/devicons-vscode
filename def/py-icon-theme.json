@@ -1,0 +1,12 @@
+{
+  "iconDefinitions": {
+    "py": {
+      "iconPath": "../icons/py.svg"
+    }
+  },
+  "file": "py",
+  "folder": "py",
+  "languageIds": {
+    "python": "py"
+  }
+}
