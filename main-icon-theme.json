@@ -1,33 +1,4 @@
 {
-  "contributes": {
-    "iconThemes": [
-      {
-        "id": "css",
-        "label": "css",
-        "path": "main-icon-theme.json"
-      },
-      {
-        "id": "html",
-        "label": "html",
-        "path": "main-icon-theme.json"
-      },
-      {
-        "id": "js",
-        "label": "js",
-        "path": "main-icon-theme.json"
-      },
-      {
-        "id": "py",
-        "label": "py",
-        "path": "main-icon-theme.json"
-      },
-      {
-        "id": "ts",
-        "label": "ts",
-        "path": "main-icon-theme.json"
-      }
-    ]
-  },
   "iconDefinitions": {
     "css": {
       "iconPath": "icons/css.svg"
@@ -41,6 +12,12 @@
     "py": {
       "iconPath": "icons/py.svg"
     },
+    "sass": {
+      "iconPath": "icons/sass.svg"
+    },
+    "scss": {
+      "iconPath": "icons/scss.svg"
+    },
     "ts": {
       "iconPath": "icons/ts.svg"
     }
@@ -50,6 +27,8 @@
     "html": "html",
     "javascript": "js",
     "python": "py",
+    "sass": "sass",
+    "scss": "scss",
     "typescript": "ts"
   }
 }

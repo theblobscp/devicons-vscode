@@ -1,0 +1,8 @@
+{
+  "iconDefinitions": {
+    "bootstrap": {
+      "iconPath": "icons/bootstrap.svg"
+    }
+  },
+  "folder": "bootstrap"
+}
