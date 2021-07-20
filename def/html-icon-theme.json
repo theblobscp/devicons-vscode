@@ -1,7 +1,7 @@
 {
   "iconDefinitions": {
     "html": {
-      "iconPath": "icons/html.svg"
+      "iconPath": "../icons/html.svg"
     }
   },
   "file": "html",
