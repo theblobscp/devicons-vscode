@@ -1,0 +1,12 @@
+{
+  "iconDefinitions": {
+    "css": {
+      "iconPath": "icons/css.svg"
+    }
+  },
+  "file": "css",
+  "folder": "css",
+  "languageIds": {
+    "css": "css"
+  }
+}

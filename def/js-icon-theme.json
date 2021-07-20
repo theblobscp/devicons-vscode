@@ -1,0 +1,12 @@
+{
+  "iconDefinitions": {
+    "js": {
+      "iconPath": "icons/js.svg"
+    }
+  },
+  "file": "js",
+  "folder": "js",
+  "languageIds": {
+    "javascript": "js"
+  }
+}
