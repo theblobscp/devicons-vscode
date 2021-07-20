@@ -17,6 +17,11 @@
         "path": "foundation-icon-theme.json"
       },
       {
+        "id": "haxe",
+        "label": "haxe",
+        "path": "main-icon-theme.json"
+      },
+      {
         "id": "html",
         "label": "html",
         "path": "main-icon-theme.json"

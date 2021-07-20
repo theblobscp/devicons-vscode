@@ -3,6 +3,9 @@
     "css": {
       "iconPath": "icons/css.svg"
     },
+    "haxe": {
+      "iconPath": "icons/haxe.svg"
+    },
     "html": {
       "iconPath": "icons/html.svg"
     },
@@ -24,6 +27,7 @@
   },
   "languageIds": {
     "css": "css",
+    "haxe": "haxe",
     "html": "html",
     "javascript": "js",
     "python": "py",
@@ -33,6 +37,7 @@
   },
   "fileExtensions": {
     "css": "css",
+    "hx": "haxe",
     "html": "html",
     "js": "js",
     "py": "py",
