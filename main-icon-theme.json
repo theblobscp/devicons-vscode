@@ -2,13 +2,13 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "html",
-        "label": "html",
+        "id": "css",
+        "label": "css",
         "path": "main-icon-theme.json"
       },
       {
-        "id": "css",
-        "label": "css",
+        "id": "html",
+        "label": "html",
         "path": "main-icon-theme.json"
       },
       {
