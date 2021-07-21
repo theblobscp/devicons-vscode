@@ -12,6 +12,9 @@
     "js": {
       "iconPath": "icons/js.svg"
     },
+    "php": {
+      "iconPath": "icons/php.svg"
+    },
     "py": {
       "iconPath": "icons/py.svg"
     },
@@ -33,6 +36,7 @@
     "haxe": "haxe",
     "html": "html",
     "javascript": "js",
+    "php": "php",
     "python": "py",
     "react": "react",
     "sass": "sass",
@@ -45,6 +49,7 @@
     "hx": "haxe",
     "html": "html",
     "js": "js",
+    "php": "php",
     "py": "py",
     "jsx": "react",
     "sass": "sass",

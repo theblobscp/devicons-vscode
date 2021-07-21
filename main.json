@@ -47,6 +47,11 @@
         "path": "npm-icon-theme.json"
       },
       {
+        "id": "php",
+        "label": "php",
+        "path": "main-icon-theme.json"
+      },
+      {
         "id": "py",
         "label": "py",
         "path": "main-icon-theme.json"
