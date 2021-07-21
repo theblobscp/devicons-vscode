@@ -27,6 +27,11 @@
         "path": "main-icon-theme.json"
       },
       {
+        "id": "jquery",
+        "label": "jquery",
+        "path": "jquery-icon-theme.json"
+      },
+      {
         "id": "js",
         "label": "js",
         "path": "main-icon-theme.json"
