@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32pt" height="32pt" viewBox="0 0 32 32" version="1.0">
-    <g id="surface1">
-        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(96.470588%,69.803922%,7.843137%);fill-opacity:1;" d="M 3.925781 16 L 16.023438 3.898438 L 0 0 Z M 3.925781 16 " />
-        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.509804%,45.098039%,12.941176%);fill-opacity:1;" d="M 16 3.925781 L 28.101562 16.023438 L 32 0 Z M 16 3.925781 " />
-        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.72549%,36.862745%,12.941176%);fill-opacity:1;" d="M 28.074219 16 L 15.976562 28.101562 L 32 32 Z M 28.074219 16 " />
-        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(96.470588%,69.803922%,7.843137%);fill-opacity:1;" d="M 16 28.074219 L 3.898438 15.976562 L 0 32 Z M 16 28.074219 " />
-        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(91.764706%,50.980392%,12.54902%);fill-opacity:1;" d="M 3.898438 15.976562 L 16 3.925781 L 28.074219 16 L 16 28.074219 Z M 3.898438 15.976562 " />
-        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(97.254902%,93.72549%,13.72549%);fill-opacity:1;" d="M 3.898438 15.976562 L 0 8 L 0 0 Z M 0 32 L 0 24 L 3.898438 15.976562 Z M 0 32 " />
-        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(97.254902%,78.039216%,7.45098%);fill-opacity:1;" d="M 0 0 L 8 0 L 16 3.925781 Z M 32 0 L 16 3.925781 L 24 0 Z M 32 0 " />
-        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.54902%,28.235294%,13.333333%);fill-opacity:1;" d="M 28.074219 16 L 32 0 L 32 8 Z M 32 32 L 32 24 L 28.074219 16 Z M 32 32 " />
-        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.72549%,36.862745%,12.941176%);fill-opacity:1;" d="M 0 32 L 16 28.074219 L 8 32 Z M 0 32 " />
-        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(91.764706%,50.980392%,12.54902%);fill-opacity:1;" d="M 32 32 L 24 32 L 16 28.074219 Z M 32 32 " />
+<svg width="32pt" height="32pt" version="1.0" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <path d="m3.9258 16l12.098-12.102-16.023-3.8984z" fill="#f5b213" />
+        <path d="m16 3.9258l12.102 12.098 3.8984-16.023z" fill="#f17220" />
+        <path d="m28.074 16l-12.098 12.102 16.023 3.8984z" fill="#ee5d20" />
+        <path d="m16 28.074l-12.102-12.098-3.8984 16.023z" fill="#f5b213" />
+        <path d="m3.8984 15.977l12.102-12.051 12.074 12.074-12.074 12.074z" fill="#ea8120" />
+        <path d="m3.8984 15.977l-3.8984-7.9766v-8zm-3.8984 16.023v-8l3.8984-8.0234z" fill="#f8ee22" />
+        <path d="m0 0h8l8 3.9258zm32 0l-16 3.9258 8-3.9258z" fill="#f8c712" />
+        <path d="m28.074 16l3.9258-16v8zm3.9258 16v-8l-3.9258-8z" fill="#ec4721" />
+        <path d="m0 32l16-3.9258-8 3.9258z" fill="#ee5d20" />
+        <path d="m32 32h-8l-8-3.9258z" fill="#ea8120" />
     </g>
 </svg>
