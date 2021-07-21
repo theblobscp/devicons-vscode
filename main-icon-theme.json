@@ -15,6 +15,9 @@
     "py": {
       "iconPath": "icons/py.svg"
     },
+    "react": {
+      "iconPath": "icons/react.svg"
+    },
     "sass": {
       "iconPath": "icons/sass.svg"
     },
@@ -28,6 +31,7 @@
     "html": "html",
     "javascript": "js",
     "python": "py",
+    "react": "react",
     "sass": "sass",
     "scss": "sass",
     "typescript": "ts"
@@ -38,6 +42,7 @@
     "html": "html",
     "js": "js",
     "py": "py",
+    "jsx": "react",
     "sass": "sass",
     "scss": "sass",
     "ts": "ts"

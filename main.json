@@ -42,6 +42,11 @@
         "path": "main-icon-theme.json"
       },
       {
+        "id": "react",
+        "label": "react",
+        "path": "main-icon-theme.json"
+      },
+      {
         "id": "sass",
         "label": "sass",
         "path": "main-icon-theme.json"
