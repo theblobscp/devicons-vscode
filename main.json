@@ -57,6 +57,11 @@
         "path": "main-icon-theme.json"
       },
       {
+        "id": "vscode",
+        "label": "vscode",
+        "path": "vscode-icon-theme.json"
+      },
+      {
         "id": "vue",
         "label": "vue",
         "path": "main-icon-theme.json"

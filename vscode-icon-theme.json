@@ -1,0 +1,8 @@
+{
+  "iconDefinitions": {
+    "vscode": {
+      "iconPath": "icons/vscode.svg"
+    }
+  },
+  "folder": ".vscode"
+}
