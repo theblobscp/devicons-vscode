@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-    <path d="M15.7 64l48.4-48.4L0 0z" fill="#F6B214" />
-    <path d="M64 15.7l48.4 48.4L128 0z" fill="#F17321" />
-    <path d="M112.3 64l-48.4 48.4L128 128z" fill="#EF5E21" />
-    <path d="M64 112.3L15.6 63.9 0 128z" fill="#F6B214" />
-    <path d="M15.6 63.9L64 15.7 112.3 64 64 112.3z" fill="#EA8220" />
-    <path d="M15.6 63.9L0 32V0zM0 128V96l15.6-32.1z" fill="#F8EF23" />
-    <path d="M0 0h32l32 15.7zM128 0L64 15.7 96 0z" fill="#F8C713" />
-    <path d="M112.3 64L128 0v32zM128 128V96l-15.7-32z" fill="#EC4822" />
-    <path d="M0 128l64-15.7L32 128z" fill="#EF5E21" />
-    <path d="M128 128H96l-32-15.7z" fill="#EA8220" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32pt" height="32pt" viewBox="0 0 32 32" version="1.0">
+    <g id="surface1">
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(96.470588%,69.803922%,7.843137%);fill-opacity:1;" d="M 3.925781 16 L 16.023438 3.898438 L 0 0 Z M 3.925781 16 " />
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.509804%,45.098039%,12.941176%);fill-opacity:1;" d="M 16 3.925781 L 28.101562 16.023438 L 32 0 Z M 16 3.925781 " />
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.72549%,36.862745%,12.941176%);fill-opacity:1;" d="M 28.074219 16 L 15.976562 28.101562 L 32 32 Z M 28.074219 16 " />
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(96.470588%,69.803922%,7.843137%);fill-opacity:1;" d="M 16 28.074219 L 3.898438 15.976562 L 0 32 Z M 16 28.074219 " />
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(91.764706%,50.980392%,12.54902%);fill-opacity:1;" d="M 3.898438 15.976562 L 16 3.925781 L 28.074219 16 L 16 28.074219 Z M 3.898438 15.976562 " />
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(97.254902%,93.72549%,13.72549%);fill-opacity:1;" d="M 3.898438 15.976562 L 0 8 L 0 0 Z M 0 32 L 0 24 L 3.898438 15.976562 Z M 0 32 " />
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(97.254902%,78.039216%,7.45098%);fill-opacity:1;" d="M 0 0 L 8 0 L 16 3.925781 Z M 32 0 L 16 3.925781 L 24 0 Z M 32 0 " />
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.54902%,28.235294%,13.333333%);fill-opacity:1;" d="M 28.074219 16 L 32 0 L 32 8 Z M 32 32 L 32 24 L 28.074219 16 Z M 32 32 " />
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.72549%,36.862745%,12.941176%);fill-opacity:1;" d="M 0 32 L 16 28.074219 L 8 32 Z M 0 32 " />
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(91.764706%,50.980392%,12.54902%);fill-opacity:1;" d="M 32 32 L 24 32 L 16 28.074219 Z M 32 32 " />
+    </g>
 </svg>
