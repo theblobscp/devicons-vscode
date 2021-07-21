@@ -1,8 +1,0 @@
-{
-  "iconDefinitions": {
-    "node": {
-      "iconPath": "icons/node.svg"
-    }
-  },
-  "folder": "node_modules"
-}

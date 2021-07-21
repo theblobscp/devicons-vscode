@@ -12,11 +12,6 @@
         "path": "main-icon-theme.json"
       },
       {
-        "id": "foundation",
-        "label": "foundation",
-        "path": "foundation-icon-theme.json"
-      },
-      {
         "id": "haxe",
         "label": "haxe",
         "path": "main-icon-theme.json"
@@ -27,19 +22,9 @@
         "path": "main-icon-theme.json"
       },
       {
-        "id": "jquery",
-        "label": "jquery",
-        "path": "jquery-icon-theme.json"
-      },
-      {
         "id": "js",
         "label": "js",
         "path": "main-icon-theme.json"
-      },
-      {
-        "id": "node",
-        "label": "node",
-        "path": "node-icon-theme.json"
       },
       {
         "id": "npm",
