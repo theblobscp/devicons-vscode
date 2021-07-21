@@ -23,6 +23,9 @@
     },
     "ts": {
       "iconPath": "icons/ts.svg"
+    },
+    "vue": {
+      "iconPath": "icons/vue.svg"
     }
   },
   "languageIds": {
@@ -34,7 +37,8 @@
     "react": "react",
     "sass": "sass",
     "scss": "sass",
-    "typescript": "ts"
+    "typescript": "ts",
+    "vue": "vue"
   },
   "fileExtensions": {
     "css": "css",
@@ -45,6 +49,7 @@
     "jsx": "react",
     "sass": "sass",
     "scss": "sass",
-    "ts": "ts"
+    "ts": "ts",
+    "vue": "vue"
   }
 }

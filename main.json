@@ -55,6 +55,11 @@
         "id": "ts",
         "label": "ts",
         "path": "main-icon-theme.json"
+      },
+      {
+        "id": "vue",
+        "label": "vue",
+        "path": "main-icon-theme.json"
       }
     ]
   }
