@@ -37,6 +37,16 @@
         "path": "main-icon-theme.json"
       },
       {
+        "id": "node",
+        "label": "node",
+        "path": "node-icon-theme.json"
+      },
+      {
+        "id": "npm",
+        "label": "npm",
+        "path": "npm-icon-theme.json"
+      },
+      {
         "id": "py",
         "label": "py",
         "path": "main-icon-theme.json"
