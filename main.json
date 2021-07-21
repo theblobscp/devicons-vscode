@@ -42,11 +42,6 @@
         "path": "main-icon-theme.json"
       },
       {
-        "id": "scss",
-        "label": "scss",
-        "path": "main-icon-theme.json"
-      },
-      {
         "id": "ts",
         "label": "ts",
         "path": "main-icon-theme.json"
