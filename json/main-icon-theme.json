@@ -67,12 +67,15 @@
     "vue": "vue"
   },
   "fileNames": {
+    ".vscodeignore": "vscode",
     "bootstrap.css": "bootstrap",
     "bootstrap.js": "bootstrap",
     "bootstrap.min.css": "bootstrap",
     "bootstrap.min.js": "bootstrap",
+    "launch.json": "vscode",
     "package.json": "npm",
-    "package-lock.json": "npm"
+    "package-lock.json": "npm",
+    "tasks.json": "vscode"
   },
   "folderNames": {
     ".vscode": "vscode"
