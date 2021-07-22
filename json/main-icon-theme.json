@@ -1,34 +1,34 @@
 {
   "iconDefinitions": {
     "css": {
-      "iconPath": "icons/css.svg"
+      "iconPath": "../icons/css.svg"
     },
     "haxe": {
-      "iconPath": "icons/haxe.svg"
+      "iconPath": "../icons/haxe.svg"
     },
     "html": {
-      "iconPath": "icons/html.svg"
+      "iconPath": "../icons/html.svg"
     },
     "js": {
-      "iconPath": "icons/js.svg"
+      "iconPath": "../icons/js.svg"
     },
     "php": {
-      "iconPath": "icons/php.svg"
+      "iconPath": "../icons/php.svg"
     },
     "py": {
-      "iconPath": "icons/py.svg"
+      "iconPath": "../icons/py.svg"
     },
     "react": {
-      "iconPath": "icons/react.svg"
+      "iconPath": "../icons/react.svg"
     },
     "sass": {
-      "iconPath": "icons/sass.svg"
+      "iconPath": "../icons/sass.svg"
     },
     "ts": {
-      "iconPath": "icons/ts.svg"
+      "iconPath": "../icons/ts.svg"
     },
     "vue": {
-      "iconPath": "icons/vue.svg"
+      "iconPath": "../icons/vue.svg"
     }
   },
   "languageIds": {

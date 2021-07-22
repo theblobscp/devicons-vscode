@@ -1,7 +1,7 @@
 {
   "iconDefinitions": {
     "bootstrap": {
-      "iconPath": "icons/bootstrap.svg"
+      "iconPath": "../icons/bootstrap.svg"
     }
   },
   "folder": "bootstrap"

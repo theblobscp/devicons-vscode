@@ -1,7 +1,7 @@
 {
   "iconDefinitions": {
     "npm": {
-      "iconPath": "icons/npm.svg"
+      "iconPath": "../icons/npm.svg"
     }
   },
   "file": "package.json"
