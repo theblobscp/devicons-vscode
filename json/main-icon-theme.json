@@ -3,6 +3,15 @@
     "bootstrap": {
       "iconPath": "../icons/bootstrap.svg"
     },
+    "c": {
+      "iconPath": "../icons/c.svg"
+    },
+    "cpp": {
+      "iconPath": "../icons/cpp.svg"
+    },
+    "cs": {
+      "iconPath": "../icons/cs.svg"
+    },
     "css": {
       "iconPath": "../icons/css.svg"
     },
@@ -41,9 +50,13 @@
     }
   },
   "languageIds": {
+    "c": "c",
+    "cpp": "cpp",
+    "csharp": "cs",
     "css": "css",
     "haxe": "haxe",
     "html": "html",
+    "hxml": "hxml",
     "javascript": "js",
     "php": "php",
     "python": "py",
@@ -54,9 +67,13 @@
     "vue": "vue"
   },
   "fileExtensions": {
+    "c": "c",
+    "cpp": "cpp",
+    "cs": "cs",
     "css": "css",
     "hx": "haxe",
     "html": "html",
+    "hxml": "hxml",
     "js": "js",
     "php": "php",
     "py": "py",

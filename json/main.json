@@ -7,6 +7,21 @@
         "path": "main-icon-theme.json"
       },
       {
+        "id": "c",
+        "label": "c",
+        "path": "main-icon-theme.json"
+      },
+      {
+        "id": "cs",
+        "label": "cs",
+        "path": "main-icon-theme.json"
+      },
+      {
+        "id": "cpp",
+        "label": "cpp",
+        "path": "main-icon-theme.json"
+      },
+      {
         "id": "css",
         "label": "css",
         "path": "main-icon-theme.json"
