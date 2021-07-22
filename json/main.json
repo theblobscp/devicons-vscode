@@ -4,7 +4,7 @@
       {
         "id": "bootstrap",
         "label": "bootstrap",
-        "path": "bootstrap-icon-theme.json"
+        "path": "main-icon-theme.json"
       },
       {
         "id": "css",
@@ -29,7 +29,7 @@
       {
         "id": "npm",
         "label": "npm",
-        "path": "npm-icon-theme.json"
+        "path": "main-icon-theme.json"
       },
       {
         "id": "php",
@@ -59,7 +59,7 @@
       {
         "id": "vscode",
         "label": "vscode",
-        "path": "vscode-icon-theme.json"
+        "path": "main-icon-theme.json"
       },
       {
         "id": "vue",

@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "bootstrap": {
+      "iconPath": "../icons/bootstrap.svg"
+    },
     "css": {
       "iconPath": "../icons/css.svg"
     },
@@ -11,6 +14,9 @@
     },
     "js": {
       "iconPath": "../icons/js.svg"
+    },
+    "npm": {
+      "iconPath": "../icons/npm.svg"
     },
     "php": {
       "iconPath": "../icons/php.svg"
@@ -26,6 +32,9 @@
     },
     "ts": {
       "iconPath": "../icons/ts.svg"
+    },
+    "vscode": {
+      "iconPath": "../icons/vscode.svg"
     },
     "vue": {
       "iconPath": "../icons/vue.svg"
@@ -56,5 +65,16 @@
     "scss": "sass",
     "ts": "ts",
     "vue": "vue"
+  },
+  "fileNames": {
+    "bootstrap.css": "bootstrap",
+    "bootstrap.js": "bootstrap",
+    "bootstrap.min.css": "bootstrap",
+    "bootstrap.min.js": "bootstrap",
+    "package.json": "npm",
+    "package-lock.json": "npm"
+  },
+  "folderNames": {
+    ".vscode": "vscode"
   }
 }
