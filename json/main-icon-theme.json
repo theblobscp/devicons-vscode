@@ -95,6 +95,9 @@
     "tasks.json": "vscode"
   },
   "folderNames": {
-    ".vscode": "vscode"
+    ".vscode": "vscode",
+    "html": "html",
+    "css": "css",
+    "js": "js"
   }
 }
