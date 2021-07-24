@@ -15,6 +15,12 @@
     "css": {
       "iconPath": "../icons/css.svg"
     },
+    "file": {
+      "iconPath": "../icons/file.svg"
+    },
+    "folder": {
+      "iconPath": "../icons/folder.svg"
+    },
     "haxe": {
       "iconPath": "../icons/haxe.svg"
     },
@@ -99,5 +105,7 @@
     "html": "html",
     "css": "css",
     "js": "js"
-  }
+  },
+  "file": "file",
+  "folder": "folder"
 }

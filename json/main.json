@@ -27,6 +27,16 @@
         "path": "main-icon-theme.json"
       },
       {
+        "id": "file",
+        "label": "file",
+        "path": "main-icon-theme.json"
+      },
+      {
+        "id": "folder",
+        "label": "folder",
+        "path": "main-icon-theme.json"
+      },
+      {
         "id": "haxe",
         "label": "haxe",
         "path": "main-icon-theme.json"
