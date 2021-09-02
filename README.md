@@ -16,7 +16,7 @@ All icons from the [offical repository] that can be applied to vscode.
 
 ## Requirements
 
-Download npm, and run the command `npm install`. That should be it.
+Download yarn, and run the command `yarn install`. That should be it.
 
 ## Extension Settings
 
